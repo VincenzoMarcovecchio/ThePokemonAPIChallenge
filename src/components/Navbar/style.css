@@ -1,5 +1,10 @@
-.Navbar {
+.navbar {
     padding: 20px;
     background: #FF4236;
     color: white;
+}
+.navbar a {
+text-decoration: none;
+font-weight: bold;
+color: whitesmoke;
 }

@@ -13,7 +13,7 @@ p {
 
 .Card__types {
     display: flex;
-    justify-content: center;    
+    justify-content: center;
 }
 
 .Card__type {
@@ -42,3 +42,21 @@ p {
     font-weight: 700;
 }
 
+.info-container {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.info-container button {
+    border: 1px solid red;
+    padding: 0.5rem;
+    margin-bottom: 0.3rem;
+    cursor: pointer;
+}
+
+.info-container button:last-child {
+    border: 1px solid orange;
+    padding: 0.5rem;
+    margin-bottom: 0.3rem;
+}
