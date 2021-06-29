@@ -92,10 +92,7 @@ function App() {
         <Navbar />
         <main>
           <Switch>
-            <Route
-              exact
-              path="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/"
-            >
+            <Route exact path="/ThePokemonAPIChallenge/">
               <div>
                 <form
                   className="btn"
@@ -147,13 +144,10 @@ function App() {
                 )}
               </div>
             </Route>
-            <Route
-              exact
-              path="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/pokemon/:slug"
-            >
+            <Route exact path="/ThePokemonAPIChallenge/pokemon/:slug">
               <PokeSingolo />
             </Route>
-            <Route path="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/deck">
+            <Route path="/ThePokemonAPIChallenge/deck">
               <PokeDeck />
             </Route>
           </Switch>

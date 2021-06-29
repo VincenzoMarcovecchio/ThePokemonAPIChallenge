@@ -5,10 +5,10 @@ import { Link } from 'react-router-dom'
 function Navbar() {
   return (
     <div className="navbar">
-      <Link to="/">Pokemon API&nbsp;&nbsp;&nbsp;&nbsp;</Link>
-      <a href="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/deck">
-        Mycatch
-      </a>
+      <Link to="/ThePokemonAPIChallenge/">
+        Pokemon API&nbsp;&nbsp;&nbsp;&nbsp;
+      </Link>
+      <a href="/ThePokemonAPIChallenge/deck">Mycatch</a>
     </div>
   )
 }
