@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ThePokemonAPIChallenge/static/css/main.4de2887f.chunk.css",
-    "main.js": "/ThePokemonAPIChallenge/static/js/main.6de637b2.chunk.js",
-    "main.js.map": "/ThePokemonAPIChallenge/static/js/main.6de637b2.chunk.js.map",
+    "main.js": "/ThePokemonAPIChallenge/static/js/main.9bee027d.chunk.js",
+    "main.js.map": "/ThePokemonAPIChallenge/static/js/main.9bee027d.chunk.js.map",
     "runtime~main.js": "/ThePokemonAPIChallenge/static/js/runtime~main.b79203c7.js",
     "runtime~main.js.map": "/ThePokemonAPIChallenge/static/js/runtime~main.b79203c7.js.map",
     "static/js/2.5eac33e9.chunk.js": "/ThePokemonAPIChallenge/static/js/2.5eac33e9.chunk.js",
     "static/js/2.5eac33e9.chunk.js.map": "/ThePokemonAPIChallenge/static/js/2.5eac33e9.chunk.js.map",
     "index.html": "/ThePokemonAPIChallenge/index.html",
-    "precache-manifest.8f7d48635dffb3ea29a70bc3bd1fecca.js": "/ThePokemonAPIChallenge/precache-manifest.8f7d48635dffb3ea29a70bc3bd1fecca.js",
+    "precache-manifest.9b5eae5c142bcbdb60d44e68d01be8b5.js": "/ThePokemonAPIChallenge/precache-manifest.9b5eae5c142bcbdb60d44e68d01be8b5.js",
     "service-worker.js": "/ThePokemonAPIChallenge/service-worker.js",
     "static/css/main.4de2887f.chunk.css.map": "/ThePokemonAPIChallenge/static/css/main.4de2887f.chunk.css.map"
   }
