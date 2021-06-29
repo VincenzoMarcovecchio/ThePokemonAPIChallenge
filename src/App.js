@@ -92,7 +92,10 @@ function App() {
         <Navbar />
         <main>
           <Switch>
-            <Route exact path="/">
+            <Route
+              exact
+              path="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/"
+            >
               <div>
                 <form
                   className="btn"
@@ -144,13 +147,16 @@ function App() {
                 )}
               </div>
             </Route>
-            <Route exact path="/pokemon/:slug">
+            <Route
+              exact
+              path="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/pokemon/:slug"
+            >
               <PokeSingolo />
             </Route>
-            <Route path="/deck">
+            <Route path="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/deck">
               <PokeDeck />
             </Route>
-          </Switch>{' '}
+          </Switch>
         </main>
       </Router>
     </React.Fragment>

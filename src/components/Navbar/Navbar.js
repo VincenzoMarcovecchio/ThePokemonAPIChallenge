@@ -6,7 +6,9 @@ function Navbar() {
   return (
     <div className="navbar">
       <Link to="/">Pokemon API&nbsp;&nbsp;&nbsp;&nbsp;</Link>
-      <a href="/deck">Mycatch</a>
+      <a href="https://vincenzomarcovecchio.github.io/ThePokemonAPIChallenge/deck">
+        Mycatch
+      </a>
     </div>
   )
 }
